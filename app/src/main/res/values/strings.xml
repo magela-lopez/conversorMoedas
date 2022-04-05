@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConversaoMoedas</string>
+    <string name="chave_r_ex_8_50">Chave R$: ex: 8.50</string>
+    <string name="valor">Valor:</string>
+    <string name="peso">PESO</string>
+    <string name="real">REAL</string>
+    <string name="limpar">Limpar</string>
+    <string name="conversor">Conversor</string>
+    <string name="dolar">Dolar</string>
+    <string name="limpar_valores">limpar valores</string>
+    <string name="cota_o_ex_r_8_50">Cotação. Ex: R$8,50</string>
+    <string name="valor_a_convertir">Valor a convertir</string>
+    <string name="_0">0</string>
+</resources>

@@ -33,11 +33,6 @@ public class MainActivity extends AppCompatActivity {
         Button btnLimparValores = findViewById(R.id.btnLimpa);
         lblResultadoCotacao = findViewById(R.id.txtResultado);
 
-        double cotacaoDolar=5.18D;
-        double cotacaoReal = 8.90D;
-        double cotacaoPeso = 8.20D;
-        double cotacaoDolarPeso = 42.50D;
-
         btnConverterPeso.setOnClickListener(new View.OnClickListener() {
             @SuppressLint("SetTextI18n")
             @Override
